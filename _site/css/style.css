@@ -3,4 +3,19 @@ body {
   background-color: steelblue;
 }
 
+.header {
+  font-size: 2vw;
+  text-align: center;
+  background-color: rgb(23, 55, 82);
+  padding: 3vw;
+}
+
+li {
+  font-size: 1vw;
+}
+
+.drawing {
+  background-image: url(Pencil.jpeg);
+}
+
 /*# sourceMappingURL=style.css.map */
