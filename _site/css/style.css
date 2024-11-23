@@ -10,12 +10,27 @@ body {
   padding: 3vw;
 }
 
+.hero {
+  font-size: 2vw;
+  text-align: center;
+}
+
+.Para {
+  font-size: 2vw;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
 li {
   font-size: 1vw;
 }
 
 .drawing {
-  background-image: url(Pencil.jpeg);
+  background-image: url(../imgs/Pencil.jpeg);
+}
+
+.Gaming {
+  background-image: url(../imgs/lego.avif);
 }
 
 /*# sourceMappingURL=style.css.map */

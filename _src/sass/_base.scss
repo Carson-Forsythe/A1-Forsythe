@@ -10,12 +10,30 @@ body{
      background-color: rgb(23, 55, 82);
      padding: 3vw;
 }
+.hero{
+     font-size: 2vw;
+     text-align: center;
+}
+
+.Para{
+     font-size:2vw;
+     margin-left: 15%;
+     margin-right: 15%;
+}
 
 li{
      font-size: 1vw;
 }
 
 .drawing{
-     background-image: URL(Pencil.jpeg);
+
+    background-image: URL(../imgs/Pencil.jpeg);
+
+
+
+}
+
+.Gaming{
+     background-image: URL(../imgs/lego.avif);
 
 }
